@@ -67,8 +67,6 @@ We welcome contributions! As this repository is under construction, we're partic
 - Bug fixes and optimizations
 - Research paper implementations
 
-Please check the contribution guidelines (to be added) for more details on how to contribute.
-
 ---
 
 *This repository is actively being developed. Check back regularly for updates and new features.* 
