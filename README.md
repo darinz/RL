@@ -27,6 +27,26 @@ This repository serves as a collection of reinforcement learning implementations
 - **Benchmarks**: Performance comparisons across different algorithms and environments
 - **Documentation**: Comprehensive documentation and API references
 
+## Curriculum
+
+1. Introduction to Reinforcement Learning
+
+2. Tabular MDP planning
+
+3. Tabular RL policy evaluation
+
+4. Q-learning
+
+5. Policy Gradient
+
+6. Imitation Learning and Learning from Human Input and Batch RL
+
+7. Data Efficient RL 
+
+8. Monte Carlo Tree Search and Conquering Go 
+
+9. LLMS and RL
+
 ## Getting Started
 
 Once the repository is more developed, you'll be able to:
